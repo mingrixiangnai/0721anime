@@ -27,6 +27,7 @@
 	📺 我独自升级第二季
 	🎬 集数：全13集
 	🔗 详情：https://dm0721.icu/v/id/57913.html
+![dm0721](https://github.com/user-attachments/assets/7c0927d2-9fd1-471b-a333-e83e039d94cf)
 
 ## 参考
 
