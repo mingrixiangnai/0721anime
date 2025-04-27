@@ -72,10 +72,10 @@ class DM0721SearchPlugin(Star):
             # 构建合并消息
             msg = [f"🔍找到{len(results)}条结果：\n"]
             for index, anime in enumerate(results, 1):
-                entry = f"{index}. 📺 {anime['title']}\n"
-                entry += f"   🎬 集数：{anime['episodes']}\n"
+                entry = f"{index}.\n   📺 【标题】：{anime['title']}\n"
+                entry += f"   🎬 【集数】：{anime['episodes']}\n"
                 if anime['detail_url']:
-                    entry += f"   🔗 详情：\n{anime['detail_url']}\n"
+                    entry += f"   🔗 【详情】：\n{anime['detail_url']}\n"
                 msg.append(entry)
             
             # 合并为单条消息发送
