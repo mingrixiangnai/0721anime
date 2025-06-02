@@ -1,3 +1,5 @@
+# 主站https://nn0721.icu
+
 # AstrBot 动漫查询插件
 
 ## 简介
